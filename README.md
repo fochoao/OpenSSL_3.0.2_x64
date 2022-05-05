@@ -10,12 +10,12 @@
 
 ## Now point directly in Path, and point to these folders:
 
-## C:\Program Files\OpenSSL\lib\engines-3
-## C:\Program Files\OpenSSL\lib\ossl-modules
-## C:\Program Files\Common Files\SSL\data
-## C:\Program Files\Common Files\SSL\certs
-## C:\Program Files\Common Files\SSL\misc
-## C:\Program Files\Common Files\SSL\private
+## C:\Program Files\OpenSSL\lib\engines-3\
+## C:\Program Files\OpenSSL\lib\ossl-modules\
+## C:\Program Files\Common Files\SSL\data\
+## C:\Program Files\Common Files\SSL\certs\
+## C:\Program Files\Common Files\SSL\misc\
+## C:\Program Files\Common Files\SSL\private\
 ## C:\Program Files\OpenSSL\bin\
 
 ## Reboot your computer, or get chocolatey and perform the next command: refreshenv.
@@ -28,7 +28,6 @@
 ## If this is the output You did everything good.
  
 ## OpenSSL 3.0.2 15 Mar 2022 (Library: OpenSSL 3.0.2 15 Mar 2022)
-
 ## built on: Wed May 4 14:07:31 2022 UTC
 ## platform: VC-WIN64A
 ## options: bn(64,64)
