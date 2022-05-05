@@ -8,7 +8,7 @@
 ## ENGINESDIR with the path: C:\Program Files\OpenSSL\lib\engines-3\
 ## MODULESDIR with the path: C:\Program Files\OpenSSL\lib\ossl-modules\
 
-## Now point directly in Path, and point these folders:
+## Now point directly in Path, and point to these folders:
 
 ## C:\Program Files\OpenSSL\lib\engines-3
 ## C:\Program Files\OpenSSL\lib\ossl-modules
