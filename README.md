@@ -4,8 +4,8 @@
 
 ## Each variable is named different and should be like this:
 
-## OPENSSLDIR which should contain as path: C:\Program Files\Common Files\SSL
-## ENGINESDIR with this specific path: C:\Program Files\OpenSSL\lib\engines-3
+## OPENSSLDIR with the path: C:\Program Files\Common Files\SSL\
+## ENGINESDIR with the path: C:\Program Files\OpenSSL\lib\engines-3\
 ## MODULESDIR with the path: C:\Program Files\OpenSSL\lib\ossl-modules\
 
 ## Now point directly in Path, and point these folders:
@@ -23,7 +23,7 @@
 ## As well private folder for private keys such as SSH protocol ones. Or certificates.
 ## To re-check as well on command line after this, type: openssl version -a
 
-## C:\>openssl version -a
+## C:\> openssl version -a
 
 ## If this is the output You did everything good.
  
