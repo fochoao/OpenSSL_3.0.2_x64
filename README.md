@@ -1,7 +1,8 @@
 # OpenSSL 3.0.2 x64
 
-## Put the next variables of Environment, and add the folders to path, you can skip however data and private folders.
-## Each variable is named on different form but should be:
+## Put the next variables of Environment, and add the folders to path, you can skip however data and private subfolders inside SSL folder.
+
+## Each variable is named different and should be like this:
 
 ## OPENSSLDIR which should contain as path: C:\Program Files\Common Files\SSL
 ## ENGINESDIR with this specific path: C:\Program Files\OpenSSL\lib\engines-3
