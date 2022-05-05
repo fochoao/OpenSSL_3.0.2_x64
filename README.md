@@ -23,8 +23,6 @@
 # As well private folder for private keys such as SSH protocol ones. Or certificates.
 # To re-check as well on command line after this, type: openssl version -a
 
-# " C:\> openssl version -a "
-
 # If this is the output You did everything good.
  
 # OpenSSL 3.0.2 15 Mar 2022 (Library: OpenSSL 3.0.2 15 Mar 2022)
